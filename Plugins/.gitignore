@@ -1,0 +1,5 @@
+# Don't ignore precompiled plugin data
+!**
+
+# We can safely re-ignore .pdb files
+**/*.pdb

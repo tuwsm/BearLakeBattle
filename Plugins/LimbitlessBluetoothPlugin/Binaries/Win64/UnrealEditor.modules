@@ -1,0 +1,11 @@
+{
+	"BuildId": "43139311",
+	"Modules": 
+	{
+		"LimbitlessBTAndroid": "UnrealEditor-LimbitlessBTAndroid.dll",
+		"LimbitlessBTWindows": "UnrealEditor-LimbitlessBTWindows.dll",
+		"LimbitlessBluetoothEditor": "UnrealEditor-LimbitlessBluetoothEditor.dll",
+		"LimbitlessBluetoothPlugin": "UnrealEditor-LimbitlessBluetoothPlugin.dll",
+		"PlatformManager": "UnrealEditor-PlatformManager.dll"
+	}
+}

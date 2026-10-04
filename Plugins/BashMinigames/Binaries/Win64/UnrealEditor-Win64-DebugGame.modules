@@ -1,0 +1,8 @@
+{
+	"BuildId": "43139311",
+	"Modules": 
+	{
+		"BashMinigames": "UnrealEditor-BashMinigames-Win64-DebugGame.dll",
+		"ShootingRange": "UnrealEditor-ShootingRange-Win64-DebugGame.dll"
+	}
+}

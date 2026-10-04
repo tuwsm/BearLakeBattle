@@ -1,0 +1,41 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "MinigameCore",
+	"Description": "Core minigame functionality for Limbitless Solutions' Super Bionic Bash",
+	"Category": "Other",
+	"CreatedBy": "Donny Akers, Limbitless Solutions",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.6.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"SupportedTargetPlatforms": [
+		"Win64"
+	],
+	"Modules": [
+		{
+			"Name": "MinigameCore",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "MinigameCoreEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "BashCore",
+			"Enabled": true
+		},
+		{
+			"Name": "FCTween",
+			"Enabled": true
+		}
+	]
+}
